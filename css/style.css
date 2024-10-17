@@ -304,7 +304,7 @@ button {
 .banner_text {
     width: 100%;
     float: left;
-    font-size: 30px;
+    font-size: 40px;
     color: #38be89;
     font-family: 'Lato', sans-serif;
 }
@@ -354,7 +354,7 @@ button {
     float: left;
     font-size: 16px;
     color: #1d343c;
-    text-align: center;
+    text-align: left;
     margin: 0 auto;
 }
 .policy_section_2{
