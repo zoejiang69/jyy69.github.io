@@ -363,7 +363,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #1d343c;
+    color: #888;
     text-align: left;
     margin: 0 auto;
 }
@@ -377,7 +377,7 @@ button {
     width: 100%;
     float: left;
     border: 2px solid #1d343c;
-    padding: 60px 19px;
+    padding: 60px 19px 40px;
 }
 
 .box_main:hover {
