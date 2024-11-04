@@ -395,6 +395,10 @@ button {
     min-height: 50px;
 }
 
+.car_image img{
+    max-width:30%;
+}
+
 .vehicle_text {
     width: 100%;
     float: left;
